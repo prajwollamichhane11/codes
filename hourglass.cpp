@@ -1,3 +1,6 @@
+//2D Array - DS
+//Hackerrank question
+
 #include<bits/stdc++.h>
 using namespace std;
 
