@@ -1,3 +1,4 @@
+
 t = list(map(int,input().split()))
 v = list(map(int,input().split()))
 x = int(input())
